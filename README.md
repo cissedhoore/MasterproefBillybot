@@ -10,3 +10,5 @@ The device features the following main components:
 * Lithium-ion Battery
 * H-bridge for motor control
 * AUX-conector
+
+https://easyeda.com/cissedhoore/thesis
