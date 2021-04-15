@@ -6,6 +6,8 @@ In deze masterproef wordt beschreven hoe een insect-robot voor STEM-onderwijs we
 
 The device features the following main components:
 
+* 3D printed frame
+* Custom PCB
 * Pickaxe microcontroller
 * Lithium-ion Battery
 * H-bridge for motor control
