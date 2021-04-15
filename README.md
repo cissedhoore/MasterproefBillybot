@@ -12,4 +12,7 @@ The device features the following main components:
 * AUX-conector
 
 Schematic and PCB-layout were made in EasyEDA and can be found here: 
-https://easyeda.com/cissedhoore/thesis
+ https://easyeda.com/cissedhoore/thesis
+ 
+Thesis describing the designing process and the tests that were performed with the resulting robot can be found here:
+ https://lib.ugent.be/nl/catalog/rug01:002786081
