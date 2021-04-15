@@ -11,5 +11,5 @@ The device features the following main components:
 * H-bridge for motor control
 * AUX-conector
 
-Schematic and PCB-layout were made in EasyEDA and can be found here: \n
+Schematic and PCB-layout were made in EasyEDA and can be found here: 
 https://easyeda.com/cissedhoore/thesis
