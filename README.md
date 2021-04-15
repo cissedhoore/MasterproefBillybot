@@ -11,7 +11,7 @@ The device features the following main components:
 * H-bridge for motor control
 * AUX-conector
 
-Schematic and PCB-layout were made in EasyEDA and can be found here: [EasyEDA Open File Format](https://easyeda.com/cissedhoore/thesis)
+Schematic and PCB-layout were made in EasyEDA and can be found here: [EasyEDA Project](https://easyeda.com/cissedhoore/thesis)
  
 Thesis describing the designing process and the tests that were performed with the resulting robot can be found here:  
  [Masters Scription (Univeristy of Ghent)](https://lib.ugent.be/nl/catalog/rug01:002786081)
