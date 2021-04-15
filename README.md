@@ -6,7 +6,7 @@ In deze masterproef wordt beschreven hoe een insect-robot voor STEM-onderwijs we
 
 The device features the following main components:
 
-*Pickaxe microcontroller
-*Lithium-ion Battery
-*H-bridge for motor control
-*AUX-conector
+* Pickaxe microcontroller
+* Lithium-ion Battery
+* H-bridge for motor control
+* AUX-conector
