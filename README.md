@@ -8,7 +8,7 @@ The device features the following main components:
 
 * 3D printed frame
 * Custom PCB
-* Pickaxe microcontroller
+* Pickaxe microcontroller Pic14M2
 * Lithium-ion Battery
 * H-bridge for motor control
 * AUX-conector
