@@ -12,12 +12,12 @@ In deze masterproef wordt beschreven hoe een insect-robot voor STEM-onderwijs we
 
 ### Components
 
-* 3D printed frame
-* Custom PCB
-* Pickaxe microcontroller Pic14M2
-* Lithium-ion Battery
-* H-bridge for motor control
-* AUX-conector
+- 3D printed frame
+- Custom PCB
+- Pickaxe microcontroller Pic14M2
+- Lithium-ion Battery
+- H-bridge for motor control
+- AUX-conector
 
 ### Schematics and PCB-layout
 
@@ -30,8 +30,8 @@ Thesis describing the designing process and the tests that were performed with t
  
  ### Possible Improvements
  
-* Addition of a software library
-* Make the robot more reliable
+- Addition of a software library
+- Make the robot more reliable
  
 
 
